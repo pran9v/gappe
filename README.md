@@ -37,7 +37,7 @@ To run the app locally, follow these steps:
   ```
 6. Start chatting without the need for login credentials!
 
-##Dependencies
+## Dependencies
 
 flutter: ^3.7.3
 cloud_firestore: ^4.5.0
