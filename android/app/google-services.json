@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018393462131",
+    "project_id": "gappe-42570",
+    "storage_bucket": "gappe-42570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018393462131:android:18207013b2824b377ef106",
+        "android_client_info": {
+          "package_name": "com.example.gappe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018393462131-kd85eq7t6v0cn8cntc154l402p9hjv0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKV6KDRInl-XuHHgnOEs8mNgDslLEM_wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018393462131-kd85eq7t6v0cn8cntc154l402p9hjv0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
